@@ -1,4 +1,4 @@
-Klasifikasi Gambar Rock-Paper-Scissors dengan Model Sequential (Deep Learning) menggunakan TensorFlow dan Keras Library pada Google Colabs
+### Klasifikasi Gambar Rock-Paper-Scissors dengan Model Sequential (Deep Learning) menggunakan TensorFlow dan Keras Library pada Google Colabs
 
 Keterangan:
 
