@@ -14,3 +14,4 @@ Keterangan:
 * melakukan visualisasi terhadap akurasi model dan *loss*-nya
 * Klasifikasi gambar dilakukan melalui media upload di Google Colabs
 * Tingkat akurasi diatas 90%
+* Model yang dibuat bisa memprediksi gambar yang di upload
